@@ -1,0 +1,48 @@
+body {
+    background-color: beige;
+    margin: 50px;
+    font-size: 20px;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1 {
+    text-align: center;
+    
+}
+h2 {
+    text-align: center;
+    color: red;
+}
+#imagem {
+    background-size: 100%;
+    bottom: 0;
+    color: black;
+    right: 0;
+    overflow: auto;
+    padding: 3em;
+    position: absolute;
+    right: 0;
+    top: 0;
+
+}
+label {
+    display: block;
+    margin-top: 20px;
+    
+
+}
+input, select {
+    padding: 10px;
+    font-size: 15px;
+    border: 1px solid #CCC;
+    margin-top: 15px;
+}
+.texto {
+    width: 500px;
+}
+footer {
+text-align: center;
+margin: 0%;
+padding: 0%;
+color: black;
+}
